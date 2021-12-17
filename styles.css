@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+body #links{
+font-family: Arial, Verdana, sans-
+serif;} h1, h2 {  color: grey;}
+p {
+color: #665544;}
+
+h3.six {border-style: ridge;}
+
+
+h1.one {border-style: solid;}
+
+li {
+ display: inline;
+ margin-right: 10px;}
+
+p{
+background-color: #FFF0F5}h2 {
+background-color:#E6E6FA;}
+h1 {
+background-color:#FFFAF0;}
+</html>
+h1.one {
+ border-width: 2px;}
+body {
+font-family: arial;
+background-color: #F5F5DC;}
+.center {
+  text-align: center;}
+.footer {
+font-size: .75em;
+clear: both;
+width: 100%;
+text-align: center;
+}

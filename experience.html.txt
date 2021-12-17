@@ -1,0 +1,18 @@
+<html>
+<link rel="stylesheet" href="styles.css">
+<div class="center">
+<h1> Steps into improvement </h1>
+</div>
+<hr />
+<p>Then I started improving <b>step by step</b>, my family helped me with the <b>packaging, pricing, profit</b> and the <b>photo taking</b>. </p>
+
+<p>On <b>April</b>, 2021 was my actual success, it was when i released my ramadan collection. </p>
+<img src= "C:\Users\Waleed\Desktop\picturs\IMG-5513.jpeg" width ="200" height="350"/>
+<img src="C:\Users\Waleed\Desktop\picturs\IMG-5514.jpeg" width="200" height="350"/>
+<p>I released this jalabya that everyone like, it was incredibly unexpected. It was sold out in a couple of days. This was really something new to me & unexpected.</p>
+<p> I got <b>my first international orders</b> to Ksa and then to other Gcc countries. People from all around Gcc liked and complimented my designs. I gained customers from all over. </p>
+<img src="C:\Users\Waleed\Desktop\picturs\IMG-1635.jpeg" width="400" height="400"/>
+</html>
+<footer>
+<i>Created by</i> Shaikha Albahdahi
+</footer>

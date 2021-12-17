@@ -1,0 +1,13 @@
+<!DOCTYPE html> 
+<html>
+<h1> Questions and Queries </h1>
+<form action="http://www.example.org/
+<p> Please enter your email address:</p>
+       <input type="email" name="Email Address"/>
+<input type="submit" value="Submit"/>
+</form>
+<form action="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhelp.formstack.com%2Fhc%2Fen-us%2Farticles%2F360019204732-Submit-Actions&psig=AOvVaw2oUBKqVhm1gaQxGN_AKmjB&ust=1639783681550000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCu0rS86fQCFQAAAAAdAAAAABAI
+<p> Please leave any questions or queries below </p>
+  <textarea> name="questions" cols="20" rows="4">
+     Enter your questions...
+   </textarea>
